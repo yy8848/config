@@ -4,6 +4,6 @@ server:
   port: 8800
 message:  
   greeting: Greeting from the configuration
-logger:
+logging:
   level:
     com.rpicloud: "DEBUG"
