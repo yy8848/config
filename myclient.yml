@@ -3,7 +3,7 @@ configuration:
 server:  
   port: 8800
 message:  
-  greeting: Greeting from the configuration
+  greeting: Hello from the configuration
 logging:
   level:
-    com.rpicloud: "INFO"
+    com.rpicloud: "DEBUG"
