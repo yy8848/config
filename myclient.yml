@@ -1,7 +1,7 @@
 configuration:  
   projectName: myclient
 message:  
-  greeting: Hello from the configuration
+  greeting: Greeting from the configuration
 logging:
   level:
     com.rpicloud: "DEBUG"
