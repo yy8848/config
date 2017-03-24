@@ -4,4 +4,4 @@ message:
   greeting: Greeting from the configuration
 logging:
   level:
-    com.rpicloud: "DEBUG"
+    com.rpicloud: "INFO"
